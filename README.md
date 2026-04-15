@@ -40,3 +40,5 @@ Paralelamente, descobri minha paixão pelo desenvolvimento Front-End e venho me 
 Busco uma oportunidade como Desenvolvedor Front-End, com foco em evolução técnica, qualidade de código e experiência do usuário, além de contribuir e crescer junto à equipe.
 
 ✨ Sempre buscando aprender mais e evoluir como desenvolvedor!
+
+![Profile Views](https://komarev.com/ghpvc/?username=adrielmiranda&color=blue)
