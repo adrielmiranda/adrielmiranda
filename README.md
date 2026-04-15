@@ -6,14 +6,12 @@
 
 ## 💻 Sobre mim
 
-🎓 Graduado em Análise e Desenvolvimento de Sistemas
+🎓 Graduado em Análise e Desenvolvimento de Sistemas  
 💡 +5 anos de experiência em TI  
-🔄 Transição para Desenvolvimento Front-end  
+🔄 Em transição para Desenvolvimento Front-end  
 🚀 Foco em React e interfaces modernas  
 
-💻 Desenvolvedor Web  
-🚀 Focado em Front-end  
-🎯 Em busca da primeira oportunidade  
+🎯 Em busca da primeira oportunidade como Desenvolvedor Front-end
 
 ---
 
