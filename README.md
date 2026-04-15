@@ -1,16 +1,36 @@
-## Hi there 👋
+# Olá, eu sou o Adriel 👋
 
-<!--
-**adrielmiranda/adrielmiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em formação  
+🚀 Focado em Front-end  
+🎯 Em busca da primeira oportunidade na área  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que uso
+
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react)
+
+---
+
+## 📚 Atualmente estudando
+
+![My Skills](https://skillicons.dev/icons?i=react,js)
+
+---
+
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrielmiranda&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrielmiranda&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contato
+
+📧 Email: adrielneer@gmail.com  
+💼 LinkedIn: [coloque-seu-link-aqui ](https://www.linkedin.com/in/adrielmiranda/) 
+
+---
+
+✨ Sempre buscando aprender mais e evoluir como desenvolvedor!
