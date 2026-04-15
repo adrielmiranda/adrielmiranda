@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 Tecnologias que uso
+## 🚀 Tecnologias que uso e trabalho pessoal
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react)
 
