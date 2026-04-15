@@ -2,7 +2,6 @@
 ## Olá pessoal👋
 
 💻 Desenvolvedor Web
-
 🚀 Focado em Front-end  
 🎯 Em busca da primeira oportunidade na área  
 
