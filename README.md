@@ -11,9 +11,7 @@
 🔄 Em transição para Desenvolvimento Front-end  
 🚀 Foco em React e interfaces modernas  
 
-💻 Desenvolvedor Web  
-🚀 Focado em Front-end  
-🎯 Em busca da primeira oportunidade 
+🎯 Em busca da primeira oportunidade como Desenvolvedor Front-end
 
 ---
 
