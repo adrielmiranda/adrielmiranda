@@ -6,6 +6,10 @@
 
 ## 💻 Sobre mim
 
+💡 +5 anos de experiência em TI  
+🔄 Transição para Desenvolvimento Front-end  
+🚀 Foco em React e interfaces modernas  
+
 💻 Desenvolvedor Web  
 🚀 Focado em Front-end  
 🎯 Em busca da primeira oportunidade  
