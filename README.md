@@ -2,11 +2,11 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=24&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-end;Em+busca+da+primeira+oportunidade🚀)
 
-![ADS](https://img.shields.io/badge/Formação-Análise%20e%20Desenvolvimento%20de%20Sistemas-blue?style=for-the-badge)
 ---
 
 ## 💻 Sobre mim
 
+🎓 Graduado em Análise e Desenvolvimento de Sistemas
 💡 +5 anos de experiência em TI  
 🔄 Transição para Desenvolvimento Front-end  
 🚀 Foco em React e interfaces modernas  
