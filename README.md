@@ -13,6 +13,14 @@
 
 ---
 
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrielmiranda&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrielmiranda&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
 ## 📚 Atualmente estudando
 
 ![My Skills](https://skillicons.dev/icons?i=js,react)
