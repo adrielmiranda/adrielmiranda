@@ -1,7 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=24&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+Adriel+Miranda;Desenvolvedor+Front-end;Em+busca+da+primeira+oportunidade🚀)
-
-# Adriel Miranda 
-## Olá pessoal👋
+ 
+## Olá, eu sou o Adriel Miranda👋
 
 💻 Desenvolvedor Web
 🚀 Focado em Front-end  
