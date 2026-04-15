@@ -1,6 +1,7 @@
-# Olá, eu sou o Adriel 👋
+#Adriel Miranda 
+#Olá pessoal👋
 
-💻 Desenvolvedor em formação  
+💻 Desenvolvedor Web
 🚀 Focado em Front-end  
 🎯 Em busca da primeira oportunidade na área  
 
@@ -14,22 +15,14 @@
 
 ## 📚 Atualmente estudando
 
-![My Skills](https://skillicons.dev/icons?i=react,js)
-
----
-
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrielmiranda&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrielmiranda&layout=compact&theme=tokyonight)
+![My Skills](https://skillicons.dev/icons?i=js,react)
 
 ---
 
 ## 📫 Contato
 
 📧 Email: adrielneer@gmail.com  
-💼 LinkedIn: [coloque-seu-link-aqui ](https://www.linkedin.com/in/adrielmiranda/) 
+💼 LinkedIn: [adrielmiranda ](https://www.linkedin.com/in/adrielmiranda/) 
 
 ---
 
