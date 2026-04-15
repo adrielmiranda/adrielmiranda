@@ -27,7 +27,7 @@
 ---
 
 ## Experiência profissional
-Iniciei minha carreira como Analista de Suporte de TI, com experiência em atendimento a usuários, diagnóstico e resolução de incidentes em sistemas corporativos e suporte a ambientes Windows.
+Tenho 5 anos de experiência na área de TI. Iniciei minha carreira como Analista de Suporte de TI, com experiência em atendimento a usuários, diagnóstico e resolução de incidentes em sistemas corporativos e suporte a ambientes Windows.
 
 Também possuo experiência com e-commerce (VTEX B2B e B2C), atuando no suporte e integração de produtos, promoções, pagamentos, clientes e estoque, além de integrações com a Wevo.
 
@@ -37,4 +37,5 @@ Paralelamente, descobri minha paixão pelo desenvolvimento Front-End e venho me 
 
 🚀 Objetivo
 Busco uma oportunidade como Desenvolvedor Front-End, com foco em evolução técnica, qualidade de código e experiência do usuário, além de contribuir e crescer junto à equipe.
+
 ✨ Sempre buscando aprender mais e evoluir como desenvolvedor!
