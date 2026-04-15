@@ -43,15 +43,16 @@
 
 ## Experiência profissional
 
-💻 5 anos na área de TI  
-🛠️ Suporte técnico e sistemas corporativos  
-🛒 Experiência com e-commerce (VTEX B2B e B2C)  
-🔗 Integrações com Wevo  
+Tenho 5 anos de experiência na área de TI. Iniciei minha carreira como Analista de Suporte de TI, com experiência em atendimento a usuários, diagnóstico e resolução de incidentes em sistemas corporativos e suporte a ambientes Windows.
 
-🚀 Foco atual:
-- HTML5, CSS3, Sass  
-- JavaScript  
-- React.js  
+Também possuo experiência com e-commerce (VTEX B2B e B2C), atuando no suporte e integração de produtos, promoções, pagamentos, clientes e estoque, além de integrações com a Wevo.
+
+Ao longo da minha trajetória, desenvolvi forte capacidade analítica, atuação na identificação de melhorias em processos e sistemas internos, resolução de problemas, comunicação com usuários e equipes técnicas, além de proatividade e facilidade de aprendizado.
+
+Paralelamente, descobri minha paixão pelo desenvolvimento Front-End e venho me aprimorando constantemente na área. Possuo conhecimentos sólidos em HTML5, CSS3, JavaScript, Sass (SCSS) e React.js, com foco na criação de interfaces modernas e responsivas.
+
+🚀 Objetivo
+Busco uma oportunidade como Desenvolvedor Front-End, com foco em evolução técnica, qualidade de código e experiência do usuário, além de contribuir e crescer junto à equipe.
 
 ✨ Sempre buscando aprender mais e evoluir como desenvolvedor!
 
