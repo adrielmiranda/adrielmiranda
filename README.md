@@ -11,7 +11,7 @@
 🔄 Em transição para Desenvolvimento Front-end  
 🚀 Foco em React e interfaces modernas  
 
-🎯 Em busca da primeira oportunidade como Desenvolvedor Front-end
+🎯 Desenvolvedor Front-End Junior | Javascript + React, com foco em evolução técnica, qualidade de código e experiência do usuário, além de contribuir e crescer junto à equipe.
 
 ---
 
